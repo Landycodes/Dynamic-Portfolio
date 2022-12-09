@@ -2,6 +2,9 @@
 My name is Andrew Landry and this is my portfolio using CSS and adaptive layout.
 
 <br/>
-Here is a link to My Portfolio: https://landycodes.github.io/Dynamic-Portfolio/
+
+## Here is a link to My Portfolio: [Click Here](https://landycodes.github.io/Dynamic-Portfolio/)
+
 <br/>
-![Portfolio Website screenshot](https://user-images.githubusercontent.com/103873915/184261898-e94f3210-e36a-41ad-a8d6-330d605f00ae.PNG)
+
+![portfolio-readme-photo](https://user-images.githubusercontent.com/103873915/206796371-0e6d4745-a620-496e-95ab-002c39a4bb22.png)
